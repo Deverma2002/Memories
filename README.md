@@ -11,10 +11,10 @@ Memories is a simple social media application that enables users to capture and 
 
 ## Features
 
-- User authentication (if you have implemented it)
+- User authentication 
 - Post memories with an image and description
-- Like and comment on memories (if you have implemented these features)
-- Filter memories based on user or tags (if you have implemented this)
+- Like and comment on memories 
+- Filter memories based on user or tags 
 
 ## Technologies Used
 
